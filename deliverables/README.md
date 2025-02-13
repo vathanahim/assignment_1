@@ -48,4 +48,4 @@ In the `deliverables/src/deliverables/clients/assignment.py` configuration files
 
 ### assignment result
 I was struggling with this because I couldn't get my code to run properly and tried looking at the error logs """mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'PROD_PROMOTE_TABLES.DELIVERABLE_OUTPUT_INDIVIDUAL_POSITION_copy_sql' doesn't exist
- """, whcih i'm not sure why as I don't understand the code base. 
+ """, which i'm not sure why as I don't understand the code base. 
