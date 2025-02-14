@@ -48,3 +48,5 @@ In the `deliverables/src/deliverables/clients/assignment.py` configuration files
 
 ### assignment result
 I've done what I could with this part of the assignment. I was having a hard time with this because I couldn't get my code to run and tried looking at the error logs """mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'PROD_PROMOTE_TABLES.DELIVERABLE_OUTPUT_INDIVIDUAL_POSITION_copy_sql'""". My assumption is that the script is somehow having trouble reading into my cloud database, but I'm not really sure why because I was able to instantiate a connection in the ingestion portion. 
+
+The virtual env used for this is called 'revelio'
